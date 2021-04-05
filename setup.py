@@ -1,7 +1,7 @@
 import setuptools
 
 description = "A simple idiot's guide api wrapper in python"
-long_description = open("README.md").read()
+long_description = open("./README.md").read()
 version="1.2.0"
 
 packages = ["idioticapi"]
